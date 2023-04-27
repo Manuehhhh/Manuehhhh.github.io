@@ -1,0 +1,12 @@
+git clone https://github.com/Manuehhhh/Manuehhhh.github.io
+
+cd Manuehhhh.github.io
+
+echo "Oh yes marty" > index.html
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
